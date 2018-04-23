@@ -1,0 +1,19 @@
+﻿<Window x:Class="U3_BradleyMillerHUNGMAN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:U3_BradleyMillerHUNGMAN"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock Text="Guess the letter here" Margin="0,0,249,284" FontSize="18"/>
+        <TextBlock Text="Your awsome you saved this man. &#x0a; Sike you thought. &#x0a; He is going to die anyway. &#x0a; YOU PLAYED YOURSELF!" FontSize="18" Margin="0,32,247,183"/>
+        <TextBlock Text=" Guessed letter " Margin="-4,203,301,-21" FontSize="18"/>
+
+        <Canvas>
+            
+            
+        </Canvas>
+ </Grid>
+</Window>
